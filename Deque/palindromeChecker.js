@@ -28,3 +28,4 @@ function palindromeChecker(string) {
   return isEqual;
 };
 
+ console.log(palindromeChecker('subi no onibus'));
